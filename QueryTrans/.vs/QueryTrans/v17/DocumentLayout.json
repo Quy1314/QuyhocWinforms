@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|c:\\users\\hoang quy\\onedrive\\ta\u0300i li\u00EA\u0323u\\uittt\\quy_hoc_winforms\\querytrans\\sql_to_xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:sql_to_xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|c:\\users\\hoang quy\\onedrive\\ta\u0300i li\u00EA\u0323u\\uittt\\quy_hoc_winforms\\querytrans\\sql_to_xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:sql_to_xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|c:\\users\\hoang quy\\onedrive\\ta\u0300i li\u00EA\u0323u\\uittt\\quy_hoc_winforms\\querytrans\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|c:\\users\\hoang quy\\onedrive\\ta\u0300i li\u00EA\u0323u\\uittt\\quy_hoc_winforms\\querytrans\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|c:\\users\\hoang quy\\onedrive\\ta\u0300i li\u00EA\u0323u\\uittt\\quy_hoc_winforms\\querytrans\\sql_to_xml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:sql_to_xml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|c:\\users\\hoang quy\\onedrive\\ta\u0300i li\u00EA\u0323u\\uittt\\quy_hoc_winforms\\querytrans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|c:\\users\\hoang quy\\onedrive\\ta\u0300i li\u00EA\u0323u\\uittt\\quy_hoc_winforms\\querytrans\\sql_to_excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:sql_to_excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\sql_to_excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:sql_to_excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|c:\\users\\hoang quy\\onedrive\\ta\u0300i li\u00EA\u0323u\\uittt\\quy_hoc_winforms\\querytrans\\querytrans.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:querytrans.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|c:\\users\\hoang quy\\onedrive\\ta\u0300i li\u00EA\u0323u\\uittt\\quy_hoc_winforms\\querytrans\\sql_to_excel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C306C-049A-474E-B25A-F8DBB076D2DF}|QueryTrans.csproj|solutionrelative:sql_to_excel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sql_to_XML.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_XML.Designer.cs",
+              "RelativeDocumentMoniker": "Sql_to_XML.Designer.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_XML.Designer.cs",
+              "RelativeToolTip": "Sql_to_XML.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:15:36.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Menu.Designer.cs",
+              "RelativeToolTip": "Menu.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBJwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:15:38.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sql_to_XML.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_XML.cs",
+              "RelativeDocumentMoniker": "Sql_to_XML.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_XML.cs",
+              "RelativeToolTip": "Sql_to_XML.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:00:42.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sql_to_XML.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_XML.cs",
+              "RelativeDocumentMoniker": "Sql_to_XML.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_XML.cs [Design]",
+              "RelativeToolTip": "Sql_to_XML.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:58:34.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:32:34.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:23:11.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sql_to_Excel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_Excel.cs",
+              "RelativeDocumentMoniker": "Sql_to_Excel.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_Excel.cs [Design]",
+              "RelativeToolTip": "Sql_to_Excel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:34:10.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sql_to_Excel.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_Excel.cs",
+              "RelativeDocumentMoniker": "Sql_to_Excel.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_Excel.cs",
+              "RelativeToolTip": "Sql_to_Excel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:36:13.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:34:23.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueryTrans.csproj",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\QueryTrans.csproj",
+              "RelativeDocumentMoniker": "QueryTrans.csproj",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\QueryTrans.csproj",
+              "RelativeToolTip": "QueryTrans.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T10:34:18.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sql_to_Excel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_Excel.Designer.cs",
+              "RelativeDocumentMoniker": "Sql_to_Excel.Designer.cs",
+              "ToolTip": "C:\\Users\\Hoang Quy\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\UITTT\\Quy_hoc_Winforms\\QueryTrans\\Sql_to_Excel.Designer.cs",
+              "RelativeToolTip": "Sql_to_Excel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:34:22.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
